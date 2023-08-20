@@ -2,7 +2,7 @@
 
 <h1> Architecture <h1>
 
-<h2> Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA). <h2> 
+<h2> Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA). </h2>
 
 The different types of frontend development gave me differnt experience using each one. It was interesting to see how these differnt front end languages and components mixed together to create a front facing website. Express HTML allowed for html files/code to be run through templates, Javascript was for various functionality and the single-page application allowed for the website to reload without reloading whole pages at a time. 
   
